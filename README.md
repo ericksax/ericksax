@@ -6,7 +6,7 @@
 Please don't hesitate to help. I am always open to learning and collaborating.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksax&layout=compact&langs_count=7&theme=dark"/>
 
 <div style="display: inline_block"><br>
