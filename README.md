@@ -1,7 +1,7 @@
 ### Hi Guys 
 
 
-- 🌱 I’m currently typeScript and React...
+- 🌱 I’m currently TypeScript and ReactJs...
 
 Please don't hesitate to help. I am always open to learning and collaborating.
 
