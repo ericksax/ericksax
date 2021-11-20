@@ -1,6 +1,7 @@
-### Hi Guys!👋
+### Hi Guys 
 
-- 🌱 I’m currently learning JavaScript, CSS, html and NodeJS...
+
+- 🌱 I’m currently typeScript and React...
 
 Please don't hesitate to help. I am always open to learning and collaborating.
 
