@@ -6,8 +6,9 @@ Hey!! You can call me Erick, and I love technologies and web development. Here a
 
 Please don't hesitate to help. I am always open to learning and collaborating.
 
-<a href="https://www.linkedin.com/in/erick-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:erickfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="right">
+<a href="https://www.linkedin.com/in/erick-silva-dev/" target="_blank" align="right"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:erickfreitas@gmail.com" align="right" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Github Stats
