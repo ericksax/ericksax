@@ -1,6 +1,6 @@
 ### Hi Guys 
 
-Hey!! You can call me Erick, and I love technologies and web development. Here are part of my learning journey.
+You can call me Erick, and I love technologies and web development. Here are part of my learning journey.
 
 🌱 I’m currently learning TypeScript and ReactJs...
 
